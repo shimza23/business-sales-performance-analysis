@@ -11,7 +11,7 @@ This project analyzes retail sales data to uncover insights into revenue trends,
 
 ## Dashboard Preview
 
-![Dashboard](Screenshot%202026-05-22%20223820.png)
+![Dashboard](Dashboard.png)
 
 ---
 
