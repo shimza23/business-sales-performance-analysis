@@ -44,7 +44,20 @@ This project analyzes retail sales data to uncover insights into revenue trends,
 - Optimize pricing strategy  
 - Prepare for seasonal sales spikes  
 
----
+
+
+## Connect & Credits
+
+**LinkedIn:**  
+https://www.linkedin.com/in/kelebogile-aphane-60b844346/
+
+
+**Organization:**  
+Future Interns  
+https://www.linkedin.com/company/future-interns/
+
+📌 This project was completed as part of a real-world internship task focused on business sales analytics, dashboard development, and insight generation.
+
 
 ## Files Included
 - `Business_Sales_Dashboard.pbix` – Dashboard file  
